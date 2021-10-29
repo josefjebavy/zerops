@@ -1,6 +1,6 @@
 use: [ php@8.0 ]
 # which commands to run to build
-run:
-  - composer install
+#run:
+#  - composer install
 # which files / folders to deploy after build
 deploy: [ "info.php" ]
